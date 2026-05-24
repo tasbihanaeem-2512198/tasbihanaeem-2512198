@@ -1,4 +1,4 @@
-![logo](https://github.com/tasbihanaeem-2512198/tasbihanaeem-2512198/blob/main/2.png?raw=true)
+<img src="https://github.com/tasbihanaeem-2512198/tasbihanaeem-2512198/blob/main/2.png?raw=true" width="900" height="400" />
 <h1 align="center">Hi 👋, I'm Tasbiha Naeem</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
