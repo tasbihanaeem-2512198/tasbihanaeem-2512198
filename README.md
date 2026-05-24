@@ -1,4 +1,4 @@
-<img src="https://github.com/tasbihanaeem-2512198/tasbihanaeem-2512198/blob/main/2.png?raw=true" width="900" height="400" />
+<img src="https://github.com/tasbihanaeem-2512198/tasbihanaeem-2512198/blob/main/Shawn%20Garcia%20(1).png" width="1000" height="500" />
 <h1 align="center">Hi 👋, I'm Tasbiha Naeem</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
